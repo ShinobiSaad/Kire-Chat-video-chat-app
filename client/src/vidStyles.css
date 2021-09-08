@@ -1,0 +1,11 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: rgb(46, 41, 54);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
